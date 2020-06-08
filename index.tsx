@@ -42,6 +42,7 @@ class App extends Component<{},any> {
         <hr/>
         <Navbar/>
         <SlideShow/>
+        
       </div>
     );``
   }
