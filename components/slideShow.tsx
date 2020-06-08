@@ -1,17 +1,17 @@
-import React, {Component} from 'react';
+import React, { Component } from "react";
 
-class SlideShow extends Component<any,any>{
-  constructor(props){
+class SlideShow extends Component<any, any> {
+  constructor(props) {
     super(props);
   }
 
-  StaticSlide = ()=>{
+  StaticSlide = () => {
     
-  }
+  };
 
-  render(){
-    return '';
+  render() {
+    return this.StaticSlide();
   }
 }
 
-export default SlideShow
+export default SlideShow;
